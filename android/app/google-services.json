@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922322344930",
+    "project_id": "voucher-ku",
+    "storage_bucket": "voucher-ku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922322344930:android:78d820d47864cc1e54b7bb",
+        "android_client_info": {
+          "package_name": "com.lazy.vouku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922322344930-vr91leab49us1b6uul186lq7dmlk98mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAguhgczvESata73DUyZRfnLwf5gfiKIb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922322344930-vr91leab49us1b6uul186lq7dmlk98mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
